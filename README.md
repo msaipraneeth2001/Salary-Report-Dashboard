@@ -2,25 +2,26 @@
 
 ## Overview
 
-This repository contains a dashboard created using data from AdventureWorks. The dashboard provides insights into sales trends and distributions based on Product Categories.
+This repository contains a dashboard created using data from Kaggle's "Data Developer Salary 2024" dataset. The dashboard provides insights into salary trends and distributions for data developer roles.
 
-![AdventureWorks Dashboard](https://github.com/msaipraneeth2001/On-Prem-to-Azure-ETL/blob/main/Azure_AdventueWorks)
+![Salary Report Dashboard](https://github.com/msaipraneeth2001/Salary-Report-Dashboard/blob/main/Salary%20Report%20Dashboard.png)
 
 ## Data Source
 
-The data used in this dashboard is obtained after performing ETL on below Database using Azure:
-- Database: [AdventureWorksLT2022](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+The data used in this dashboard is sourced from Kaggle:
+- Dataset: [Data Developer Salary 2024](https://www.kaggle.com/datasets/zeesolver/data-eng-salary-2024)
 
 ## Features
 
-- Visual representation of Sales Data.
+- Visual representation of salary distributions
 - Breakdown of salaries by experience level
 
 ## Tools Used
 
-- Azure Cloud Platform 
 - Power BI (for dashboard creation and data modelling)
 
 ## How to Use
 
 1. Clone this repository
+2. Open the Power BI file
+3. Explore the interactive dashboard to gain insights into data developer salaries
