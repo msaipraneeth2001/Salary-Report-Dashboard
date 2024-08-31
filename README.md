@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a dashboard created using data from Kaggle's "Data Engineer Salary 2024" dataset. The dashboard provides insights into salary trends and distributions for data engineering roles.
+This repository contains a dashboard created using data from Kaggle's "Data Developer Salary 2024" dataset. The dashboard provides insights into salary trends and distributions for data developer roles.
 
 ![Salary Report Dashboard](https://github.com/msaipraneeth2001/Salary-Report-Dashboard/blob/main/Salary%20Report%20Dashboard.png)
 
@@ -24,4 +24,4 @@ The data used in this dashboard is sourced from Kaggle:
 
 1. Clone this repository
 2. Open the Power BI file
-3. Explore the interactive dashboard to gain insights into data engineer salaries
+3. Explore the interactive dashboard to gain insights into data developer salaries
