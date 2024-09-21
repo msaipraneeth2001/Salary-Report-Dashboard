@@ -1,4 +1,4 @@
-# Data Developer Salary Report Dashboard
+# Data Developer Salary Report
 
 ## Overview
 
